@@ -1,14 +1,10 @@
 JSON Ipsum
------------
+===========
 
 Multi-function JSON generation for the masses written in Go
 
-* Command-line
-* Web API
-* Web Interface
-
 Command-Line
-=============
+-------------
 
 Flags
 
@@ -20,8 +16,8 @@ Flags
 ```` 
 
 Web API
-========
+--------
 
 
 Web Interface
-==============
+---------------
